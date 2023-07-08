@@ -1,13 +1,13 @@
-const balance = '1000000000000000000000000';
+const balance = '100038000000000082700000000000';
 
 module.exports = {
-  accounts: [
+  accounts: [0x7d8273648967105C9f57aA34Ba9521cd8f3d08A5
     {
       secretKey: '0xc5e8f61d1ab959b397eecc0a37a6517b8e67a0e7cf1f4bce5591f3ed80199122',
       balance,
     },
     {
-      secretKey: '0xd49743deccbccc5dc7baa8e69e5be03298da8688a15dd202e20f15d5e0e9a9fb',
+  f15',
       balance,
     },
     {
